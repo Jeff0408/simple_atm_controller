@@ -10,7 +10,7 @@ Default PIN number : 1234
 and you can change it in py
 
 The flow :
-### Insert Card (you should enter your card number)=> PIN number (you should enter PIN number)=> Select Account => Leave/See Balance/Deposit/Withdraw
+##### Insert Card (you should enter your card number)=> PIN number (you should enter PIN number)=> Select Account => Leave/See Balance/Deposit/Withdraw
 And if you have any typo, there will be a hint to let you enter command again.
 
 ## Running the Program
